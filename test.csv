@@ -1,118 +1,118 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,83,0.00
-34.36.183.121,80,80,false,SIN,Asia Pacific,Singapore,99,0.00
-34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,102,0.00
-35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,108,0.00
-35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,111,0.00
-34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,115,0.00
-34.160.118.77,80,80,false,SIN,Asia Pacific,Singapore,120,0.00
-34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,121,0.00
-35.244.133.3,80,80,false,SIN,Asia Pacific,Singapore,122,0.00
-34.111.135.19,80,80,false,SIN,Asia Pacific,Singapore,129,0.00
-34.36.19.133,80,80,false,SIN,Asia Pacific,Singapore,132,0.00
-34.117.254.68,80,80,false,SIN,Asia Pacific,Singapore,145,0.00
-34.82.90.65,443,80,false,SEA,North America,Seattle,156,0.00
-34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,156,0.00
-34.105.49.234,80,80,false,SEA,North America,Seattle,157,0.00
-34.82.90.65,80,80,false,SEA,North America,Seattle,157,0.00
-34.105.49.234,80,80,false,SEA,North America,Seattle,158,0.00
-34.82.26.69,80,80,false,SEA,North America,Seattle,158,0.00
-34.169.52.185,80,80,false,SEA,North America,Seattle,158,0.00
-34.105.49.234,80,80,false,SEA,North America,Seattle,158,0.00
-34.82.90.65,80,80,false,SEA,North America,Seattle,159,0.00
-35.197.89.213,80,80,false,SEA,North America,Seattle,160,0.00
-34.147.101.117,2052,80,false,AMS,Europe,Amsterdam,161,0.00
-34.147.101.117,2086,80,false,AMS,Europe,Amsterdam,161,0.00
-34.147.101.117,2082,80,false,AMS,Europe,Amsterdam,161,0.00
-34.147.101.117,2095,80,false,AMS,Europe,Amsterdam,161,0.00
-34.147.101.117,2053,80,false,AMS,Europe,Amsterdam,161,0.00
-34.141.221.33,2096,80,false,AMS,Europe,Amsterdam,162,0.00
-34.147.101.117,2082,80,false,AMS,Europe,Amsterdam,162,0.00
-34.141.248.249,2087,80,false,AMS,Europe,Amsterdam,162,0.00
-34.141.221.33,2083,80,false,AMS,Europe,Amsterdam,162,0.00
-34.141.221.33,2095,80,false,AMS,Europe,Amsterdam,163,0.00
-34.147.82.194,2053,80,false,AMS,Europe,Amsterdam,164,0.00
-34.147.101.117,2096,80,false,AMS,Europe,Amsterdam,164,0.00
-34.141.221.33,2052,80,false,AMS,Europe,Amsterdam,164,0.00
-34.141.248.249,2086,80,false,AMS,Europe,Amsterdam,164,0.00
-34.147.101.117,2096,80,false,AMS,Europe,Amsterdam,165,0.00
-34.147.82.194,2053,80,false,AMS,Europe,Amsterdam,165,0.00
-34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,166,0.00
-34.147.101.117,2053,80,false,AMS,Europe,Amsterdam,166,0.00
-35.227.157.227,80,80,false,SEA,North America,Seattle,166,0.00
-34.141.248.249,2096,80,false,AMS,Europe,Amsterdam,167,0.00
-34.141.248.249,2082,80,false,AMS,Europe,Amsterdam,168,0.00
-34.141.221.33,2086,80,false,AMS,Europe,Amsterdam,169,0.00
-34.147.101.117,2095,80,false,AMS,Europe,Amsterdam,170,0.00
-34.147.101.117,2087,80,false,SYD,Oceania,Sydney,170,0.00
-34.54.125.61,80,80,false,SIN,Asia Pacific,Singapore,171,0.00
-34.147.101.117,2083,80,false,AMS,Europe,Amsterdam,171,0.00
-34.141.248.249,2052,80,false,AMS,Europe,Amsterdam,175,0.00
-34.141.248.249,2053,80,false,AMS,Europe,Amsterdam,177,0.00
-34.82.90.65,80,80,false,SEA,North America,Seattle,178,0.00
-34.141.221.33,2087,80,false,AMS,Europe,Amsterdam,179,0.00
-34.175.244.157,2096,80,false,MAD,Europe,Madrid,181,0.00
-34.175.143.15,2095,80,false,MAD,Europe,Madrid,181,0.00
-34.141.248.249,2095,80,false,AMS,Europe,Amsterdam,181,0.00
-34.175.7.231,2052,80,false,MAD,Europe,Madrid,182,0.00
-34.175.133.251,2082,80,false,MAD,Europe,Madrid,182,0.00
-34.175.161.245,2086,80,false,MAD,Europe,Madrid,183,0.00
-34.175.244.157,2095,80,false,MAD,Europe,Madrid,183,0.00
-34.175.244.157,2052,80,false,MAD,Europe,Madrid,183,0.00
-34.175.95.58,2096,80,false,MAD,Europe,Madrid,183,0.00
-34.175.133.251,2095,80,false,MAD,Europe,Madrid,183,0.00
-35.227.157.227,80,80,false,SEA,North America,Seattle,184,0.00
-34.175.99.73,2095,80,false,MAD,Europe,Madrid,185,0.00
-34.175.161.245,2096,80,false,MAD,Europe,Madrid,185,0.00
-34.147.101.117,2083,80,false,AMS,Europe,Amsterdam,186,0.00
-34.175.133.251,2053,80,false,MAD,Europe,Madrid,186,0.00
-34.175.99.73,2096,80,false,MAD,Europe,Madrid,186,0.00
-34.175.244.157,2053,80,false,MAD,Europe,Madrid,187,0.00
-34.175.244.157,2083,80,false,MAD,Europe,Madrid,187,0.00
-34.82.76.253,80,80,false,SEA,North America,Seattle,187,0.00
-34.175.95.58,2053,80,false,MAD,Europe,Madrid,188,0.00
-34.175.244.157,2086,80,false,MAD,Europe,Madrid,188,0.00
-34.175.95.58,2052,80,false,MAD,Europe,Madrid,188,0.00
-34.175.7.231,2082,80,false,MAD,Europe,Madrid,193,0.00
-34.141.221.33,2082,80,false,AMS,Europe,Amsterdam,197,0.00
-34.175.95.58,2095,80,false,MAD,Europe,Madrid,198,0.00
-34.175.133.251,2087,80,false,MAD,Europe,Madrid,198,0.00
-34.147.101.117,2087,80,false,SYD,Oceania,Sydney,198,0.00
-34.82.26.69,80,80,false,SEA,North America,Seattle,199,0.00
-34.141.221.33,2053,80,false,AMS,Europe,Amsterdam,200,0.00
-34.175.244.157,2082,80,false,MAD,Europe,Madrid,201,0.00
-34.82.26.69,80,80,false,SEA,North America,Seattle,203,0.00
-34.141.248.249,2083,80,false,AMS,Europe,Amsterdam,203,0.00
-34.175.161.245,2087,80,false,MAD,Europe,Madrid,206,0.00
-34.175.161.245,2095,80,false,MAD,Europe,Madrid,206,0.00
-35.188.87.85,80,8080,false,ORD,North America,Chicago,206,0.00
-34.170.57.85,8080,80,false,ORD,North America,Chicago,207,0.00
-34.82.76.253,80,80,false,SEA,North America,Seattle,208,0.00
-35.232.39.116,80,80,false,DFW,North America,Dallas,208,0.00
-35.187.41.171,2083,80,false,CDG,Europe,Paris,209,0.00
-34.147.101.117,2052,80,false,AMS,Europe,Amsterdam,209,0.00
-34.175.95.58,2086,80,false,MAD,Europe,Madrid,209,0.00
-34.175.99.73,2052,80,false,MAD,Europe,Madrid,211,0.00
-34.175.7.231,2087,80,false,MAD,Europe,Madrid,211,0.00
-34.175.95.58,2082,80,false,MAD,Europe,Madrid,212,0.00
-34.82.90.65,80,80,false,SEA,North America,Seattle,212,0.00
-34.147.101.117,2086,80,false,AMS,Europe,Amsterdam,214,0.00
-34.175.161.245,2053,80,false,MAD,Europe,Madrid,221,0.00
-34.105.3.218,443,443,true,SEA,North America,Seattle,223,0.00
-34.74.105.17,80,8080,false,ATL,North America,Atlanta,223,0.00
-34.74.105.17,80,8080,false,ATL,North America,Atlanta,224,0.00
-35.247.124.181,80,80,false,SEA,North America,Seattle,225,0.00
-34.175.168.99,2087,80,false,MAD,Europe,Madrid,229,0.00
-34.160.118.77,80,80,false,SIN,Asia Pacific,Singapore,230,0.00
-34.175.244.157,2087,80,false,MAD,Europe,Madrid,230,0.00
-34.175.161.245,2052,80,false,MAD,Europe,Madrid,231,0.00
-34.175.161.245,2082,80,false,MAD,Europe,Madrid,232,0.00
-35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,235,0.00
-34.175.99.73,2086,80,false,MAD,Europe,Madrid,236,0.00
-34.175.161.245,2083,80,false,MAD,Europe,Madrid,240,0.00
-34.82.90.65,443,80,false,SEA,North America,Seattle,250,0.00
-35.237.154.5,80,80,false,ATL,North America,Atlanta,256,0.00
-34.82.90.65,443,80,false,SEA,North America,Seattle,273,0.00
-34.82.26.69,80,80,false,SEA,North America,Seattle,274,0.00
-34.82.90.65,443,80,false,SEA,North America,Seattle,288,0.00
-34.175.7.231,2053,80,false,MAD,Europe,Madrid,306,0.00
+34.93.79.152,80,80,FALSE,BOM,Asia Pacific,Mumbai,83,20
+34.36.183.121,80,80,FALSE,SIN,Asia Pacific,Singapore,99,20
+34.93.79.152,80,80,FALSE,BOM,Asia Pacific,Mumbai,102,20
+35.200.202.118,80,80,FALSE,BOM,Asia Pacific,Mumbai,108,20
+35.200.202.118,80,80,FALSE,BOM,Asia Pacific,Mumbai,111,20
+34.93.226.165,80,80,FALSE,BOM,Asia Pacific,Mumbai,115,20
+34.160.118.77,80,80,FALSE,SIN,Asia Pacific,Singapore,120,20
+34.93.79.152,80,80,FALSE,BOM,Asia Pacific,Mumbai,121,20
+35.244.133.3,80,80,FALSE,SIN,Asia Pacific,Singapore,122,20
+34.111.135.19,80,80,FALSE,SIN,Asia Pacific,Singapore,129,20
+34.36.19.133,80,80,FALSE,SIN,Asia Pacific,Singapore,132,20
+34.117.254.68,80,80,FALSE,SIN,Asia Pacific,Singapore,145,20
+34.82.90.65,443,80,FALSE,SEA,North America,Seattle,156,20
+34.93.79.152,80,80,FALSE,BOM,Asia Pacific,Mumbai,156,20
+34.105.49.234,80,80,FALSE,SEA,North America,Seattle,157,20
+34.82.90.65,80,80,FALSE,SEA,North America,Seattle,157,20
+34.105.49.234,80,80,FALSE,SEA,North America,Seattle,158,20
+34.82.26.69,80,80,FALSE,SEA,North America,Seattle,158,20
+34.169.52.185,80,80,FALSE,SEA,North America,Seattle,158,20
+34.105.49.234,80,80,FALSE,SEA,North America,Seattle,158,20
+34.82.90.65,80,80,FALSE,SEA,North America,Seattle,159,20
+35.197.89.213,80,80,FALSE,SEA,North America,Seattle,160,20
+34.147.101.117,2052,80,FALSE,AMS,Europe,Amsterdam,161,20
+34.147.101.117,2086,80,FALSE,AMS,Europe,Amsterdam,161,20
+34.147.101.117,2082,80,FALSE,AMS,Europe,Amsterdam,161,20
+34.147.101.117,2095,80,FALSE,AMS,Europe,Amsterdam,161,20
+34.147.101.117,2053,80,FALSE,AMS,Europe,Amsterdam,161,20
+34.141.221.33,2096,80,FALSE,AMS,Europe,Amsterdam,162,20
+34.147.101.117,2082,80,FALSE,AMS,Europe,Amsterdam,162,20
+34.141.248.249,2087,80,FALSE,AMS,Europe,Amsterdam,162,20
+34.141.221.33,2083,80,FALSE,AMS,Europe,Amsterdam,162,20
+34.141.221.33,2095,80,FALSE,AMS,Europe,Amsterdam,163,20
+34.147.82.194,2053,80,FALSE,AMS,Europe,Amsterdam,164,20
+34.147.101.117,2096,80,FALSE,AMS,Europe,Amsterdam,164,20
+34.141.221.33,2052,80,FALSE,AMS,Europe,Amsterdam,164,20
+34.141.248.249,2086,80,FALSE,AMS,Europe,Amsterdam,164,20
+34.147.101.117,2096,80,FALSE,AMS,Europe,Amsterdam,165,20
+34.147.82.194,2053,80,FALSE,AMS,Europe,Amsterdam,165,20
+34.93.226.165,80,80,FALSE,BOM,Asia Pacific,Mumbai,166,20
+34.147.101.117,2053,80,FALSE,AMS,Europe,Amsterdam,166,20
+35.227.157.227,80,80,FALSE,SEA,North America,Seattle,166,20
+34.141.248.249,2096,80,FALSE,AMS,Europe,Amsterdam,167,20
+34.141.248.249,2082,80,FALSE,AMS,Europe,Amsterdam,168,20
+34.141.221.33,2086,80,FALSE,AMS,Europe,Amsterdam,169,20
+34.147.101.117,2095,80,FALSE,AMS,Europe,Amsterdam,170,20
+34.147.101.117,2087,80,FALSE,SYD,Oceania,Sydney,170,20
+34.54.125.61,80,80,FALSE,SIN,Asia Pacific,Singapore,171,20
+34.147.101.117,2083,80,FALSE,AMS,Europe,Amsterdam,171,20
+34.141.248.249,2052,80,FALSE,AMS,Europe,Amsterdam,175,20
+34.141.248.249,2053,80,FALSE,AMS,Europe,Amsterdam,177,20
+34.82.90.65,80,80,FALSE,SEA,North America,Seattle,178,20
+34.141.221.33,2087,80,FALSE,AMS,Europe,Amsterdam,179,20
+34.175.244.157,2096,80,FALSE,MAD,Europe,Madrid,181,20
+34.175.143.15,2095,80,FALSE,MAD,Europe,Madrid,181,20
+34.141.248.249,2095,80,FALSE,AMS,Europe,Amsterdam,181,20
+34.175.7.231,2052,80,FALSE,MAD,Europe,Madrid,182,20
+34.175.133.251,2082,80,FALSE,MAD,Europe,Madrid,182,20
+34.175.161.245,2086,80,FALSE,MAD,Europe,Madrid,183,20
+34.175.244.157,2095,80,FALSE,MAD,Europe,Madrid,183,20
+34.175.244.157,2052,80,FALSE,MAD,Europe,Madrid,183,20
+34.175.95.58,2096,80,FALSE,MAD,Europe,Madrid,183,20
+34.175.133.251,2095,80,FALSE,MAD,Europe,Madrid,183,20
+35.227.157.227,80,80,FALSE,SEA,North America,Seattle,184,20
+34.175.99.73,2095,80,FALSE,MAD,Europe,Madrid,185,20
+34.175.161.245,2096,80,FALSE,MAD,Europe,Madrid,185,20
+34.147.101.117,2083,80,FALSE,AMS,Europe,Amsterdam,186,20
+34.175.133.251,2053,80,FALSE,MAD,Europe,Madrid,186,20
+34.175.99.73,2096,80,FALSE,MAD,Europe,Madrid,186,20
+34.175.244.157,2053,80,FALSE,MAD,Europe,Madrid,187,20
+34.175.244.157,2083,80,FALSE,MAD,Europe,Madrid,187,20
+34.82.76.253,80,80,FALSE,SEA,North America,Seattle,187,20
+34.175.95.58,2053,80,FALSE,MAD,Europe,Madrid,188,20
+34.175.244.157,2086,80,FALSE,MAD,Europe,Madrid,188,20
+34.175.95.58,2052,80,FALSE,MAD,Europe,Madrid,188,20
+34.175.7.231,2082,80,FALSE,MAD,Europe,Madrid,193,20
+34.141.221.33,2082,80,FALSE,AMS,Europe,Amsterdam,197,20
+34.175.95.58,2095,80,FALSE,MAD,Europe,Madrid,198,20
+34.175.133.251,2087,80,FALSE,MAD,Europe,Madrid,198,20
+34.147.101.117,2087,80,FALSE,SYD,Oceania,Sydney,198,20
+34.82.26.69,80,80,FALSE,SEA,North America,Seattle,199,20
+34.141.221.33,2053,80,FALSE,AMS,Europe,Amsterdam,200,20
+34.175.244.157,2082,80,FALSE,MAD,Europe,Madrid,201,20
+34.82.26.69,80,80,FALSE,SEA,North America,Seattle,203,20
+34.141.248.249,2083,80,FALSE,AMS,Europe,Amsterdam,203,20
+34.175.161.245,2087,80,FALSE,MAD,Europe,Madrid,206,20
+34.175.161.245,2095,80,FALSE,MAD,Europe,Madrid,206,20
+35.188.87.85,80,8080,FALSE,ORD,North America,Chicago,206,20
+34.170.57.85,8080,80,FALSE,ORD,North America,Chicago,207,20
+34.82.76.253,80,80,FALSE,SEA,North America,Seattle,208,20
+35.232.39.116,80,80,FALSE,DFW,North America,Dallas,208,20
+35.187.41.171,2083,80,FALSE,CDG,Europe,Paris,209,20
+34.147.101.117,2052,80,FALSE,AMS,Europe,Amsterdam,209,20
+34.175.95.58,2086,80,FALSE,MAD,Europe,Madrid,209,20
+34.175.99.73,2052,80,FALSE,MAD,Europe,Madrid,211,20
+34.175.7.231,2087,80,FALSE,MAD,Europe,Madrid,211,20
+34.175.95.58,2082,80,FALSE,MAD,Europe,Madrid,212,20
+34.82.90.65,80,80,FALSE,SEA,North America,Seattle,212,20
+34.147.101.117,2086,80,FALSE,AMS,Europe,Amsterdam,214,20
+34.175.161.245,2053,80,FALSE,MAD,Europe,Madrid,221,20
+34.105.3.218,443,443,TRUE,SEA,North America,Seattle,223,20
+34.74.105.17,80,8080,FALSE,ATL,North America,Atlanta,223,20
+34.74.105.17,80,8080,FALSE,ATL,North America,Atlanta,224,20
+35.247.124.181,80,80,FALSE,SEA,North America,Seattle,225,20
+34.175.168.99,2087,80,FALSE,MAD,Europe,Madrid,229,20
+34.160.118.77,80,80,FALSE,SIN,Asia Pacific,Singapore,230,20
+34.175.244.157,2087,80,FALSE,MAD,Europe,Madrid,230,20
+34.175.161.245,2052,80,FALSE,MAD,Europe,Madrid,231,20
+34.175.161.245,2082,80,FALSE,MAD,Europe,Madrid,232,20
+35.200.202.118,80,80,FALSE,BOM,Asia Pacific,Mumbai,235,20
+34.175.99.73,2086,80,FALSE,MAD,Europe,Madrid,236,20
+34.175.161.245,2083,80,FALSE,MAD,Europe,Madrid,240,20
+34.82.90.65,443,80,FALSE,SEA,North America,Seattle,250,20
+35.237.154.5,80,80,FALSE,ATL,North America,Atlanta,256,20
+34.82.90.65,443,80,FALSE,SEA,North America,Seattle,273,20
+34.82.26.69,80,80,FALSE,SEA,North America,Seattle,274,20
+34.82.90.65,443,80,FALSE,SEA,North America,Seattle,288,20
+34.175.7.231,2053,80,FALSE,MAD,Europe,Madrid,306,20
